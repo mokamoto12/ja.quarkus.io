@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Quarkus</title>
+        <link>https://quarkus.io</link>
+        <description>Quarkus: Supersonic Subatomic Java</description>
+        <lastBuildDate>Fri, 08 Apr 2022 11:33:16 +0000</lastBuildDate>
+        
+        <item>
+            <title>Riding Camel Quarkus: effortless APIs</title>
+            <link>
+                https://quarkus.io/blog/camel-quarkus-effortless-apis/
+            </link>
+            <description>
+                Discover Camel, the swiss-knife of integration brought to Quarkus. The example encourages API best practices, with effortless coding effort showcasing AtlasMap for data transformation. はじめに Quarkus offers an extensive collection of extensions to connect to web, data and messaging systems, providing the developer fantastic functionality at his disposal. However, in...
+            </description>
+            <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/camel-quarkus-effortless-apis/
+            </guid>
+            
+            
+            
+            <author>Bruno Meseguer</author>
+            
+        </item>
+        
+        <item>
+            <title>Qute Templating Engine Support - Now Available for Quarkus Tools for Visual Studio Code</title>
+            <link>
+                https://quarkus.io/blog/vscode-quarkus-1.10.0-qute/
+            </link>
+            <description>
+                Quarkus Tools for Visual Studio Code version 1.10.0 has been released on the VS Code Marketplace &amp; Open VSX. If you haven&#8217;t seen the blog post on Quarkus Tools for Visual Studio Code - 1.10.0 release, we suggest you take a look at the marvelous features we&#8217;ve introduced in this...
+            </description>
+            <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/vscode-quarkus-1.10.0-qute/
+            </guid>
+            
+            
+            
+            <author>Alexander Chen</author>
+            
+        </item>
+        
+        <item>
+            <title>Quarkus Tools for Visual Studio Code - 1.10.0 release</title>
+            <link>
+                https://quarkus.io/blog/vscode-quarkus-1.10.0/
+            </link>
+            <description>
+                Quarkus Tools for Visual Studio Code 1.10.0 has been released on the VS Code Marketplace &amp; Open VSX. For a list of all changes, please refer to the changelog. It’s been about 8 months since our last release of Quarkus Tools for VS Code. 8 months!! That&#8217;s a really long...
+            </description>
+            <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/vscode-quarkus-1.10.0/
+            </guid>
+            
+            
+            
+            <author>Roland Grunberg</author>
+            
+        </item>
+        
+        <item>
+            <title>Quarkus Newsletter #18 - 3月号</title>
+            <link>
+                https://quarkus.io/blog/quarkus-newsletter-18/
+            </link>
+            <description>
+                
+3月号ニュースレターを配信しました。Java
+17とコンテナの新機能、LogicDropとVaadinのQuarkus使用への道のり、Quarkusを使用した継続的テストについてご覧いただけます。さらに、KeycloakがQuarkusを使用して完全にクラウドネイティブになる方法と、KotlinとQuarkusを使用して最初のAPIを作成する方法について、より深く理解することができます。また、最新のQuarkus
+Insightsのエピソードや、Quarkusが参加する予定のイベントもご覧ください。
+
+
+Newsletter #18 をご覧ください。
+
+
+ニュースレターを受信してみませんか？ページ上のフォームを使って
+ニュースレターに登録してください。
+
+
+また、最新のオンラインストーリーのリストも掲載されています。読んでみて、何か足りないと感じたり、今後のQuarkus
+Newsletterに掲載予定の記事がある場合は、ノートパソコンや携帯電話に
+ブックマークレットをインストールすると、簡単に記事を投稿することができます。手動での投稿をご希望の場合は、簡単な説明とURLを入力して
+Issueをオープンしてください。
+
+            </description>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-newsletter-18/
+            </guid>
+            
+            
+            
+            <author>James Cobb (https://twitter.com/insectengine)</author>
+            
+        </item>
+        
+        <item>
+            <title>Quarkus 2.7.5.Final リリース - メンテナンスリリース</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-7-5-final-released/
+            </link>
+            <description>
+                
+本日、2.7.5.Finalをリリースしましたが、例によってバグフィックスとドキュメントの改善のみが含まれています。
+
+
+これは、すでに2.7を使用している人にとって安全なアップグレードです。
+
+
+まだ2.7を使用していない場合は、
+2.7移行ガイドを参照してください。
+
+
+完全な変更履歴
+
+
+2.7.5.Final
+の完全な変更履歴は、GitHub で入手できます。
+
+
+
+
+参加のお誘い
+
+
+私達は皆様からのフィードバックに重きを置いています。バグ報告、改善要望を是非お願いします。一緒に素晴らしいものを作り上げていきましょう!
+
+
+Quarkusユーザーの場合でも、単に興味を持っているだけの場合でも、恥ずかしがらずにコミュニティに参加して下さい!:
+
+
+
+
+GitHub でフィードバック
+
+
+コードを作成し、 プルリクエスト を送信
+
+
+Zulip や
+メーリングリスト でディスカッションに参加
+
+
+Stack Overflow で質問
+
+
+
+
+
+            </description>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-7-5-final-released/
+            </guid>
+            
+            
+            
+            <author>Guillaume Smet (https://twitter.com/gsmet_)</author>
+            
+        </item>
+        
+        <item>
+            <title>Quarkus 2.7.4.Final リリース - メンテナンスリリース</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-7-4-final-released/
+            </link>
+            <description>
+                
+Quarkus 2.7.4.Finalをリリースし、バグフィックスとドキュメントの改善を行いました。
+
+
+これは、すでに2.7を使用している人にとって安全なアップグレードです。
+
+
+まだ2.7を使用していない場合は、
+2.7移行ガイドを参照してください。
+
+
+完全な変更履歴
+
+
+2.7.4.Final
+の完全な変更履歴は、GitHub で入手できます。
+
+
+
+
+参加のお誘い
+
+
+私達は皆様からのフィードバックに重きを置いています。バグ報告、改善要望を是非お願いします。一緒に素晴らしいものを作り上げていきましょう!
+
+
+Quarkusユーザーの場合でも、単に興味を持っているだけの場合でも、恥ずかしがらずにコミュニティに参加して下さい!:
+
+
+
+
+GitHub でフィードバック
+
+
+コードを作成し、 プルリクエスト を送信
+
+
+Zulip や
+メーリングリスト でディスカッションに参加
+
+
+Stack Overflow で質問
+
+
+
+
+
+            </description>
+            <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-7-4-final-released/
+            </guid>
+            
+            
+            
+            <author>Guillaume Smet (https://twitter.com/gsmet_)</author>
+            
+        </item>
+        
+        <item>
+            <title>Quarkus Tools for IntelliJ 1.10.0リリース！</title>
+            <link>
+                https://quarkus.io/blog/intellij-quarkus-tools-1.10.0/
+            </link>
+            <description>
+                
+Quarkus Tools for
+IntelliJの1.10.0リリースを発表できることを大変嬉しく思っています。このリリースでは、Quarkusの実行／デバッグ構成のサポートが追加され、いくつかの修正（セキュリティ修正を含む）が行われています。
+
+
+Quarkusの構成
+
+
+IDE構成からQuarkusアプリケーションを実行またはデバッグすることができます。 Run → Edit Configurations…​
+メニューを選択し、 Add new…​ リンクをクリックします。
+
+
+
+
+
+
+
+Quarkus 構成タイプを選択します。
+
+
+
+
+
+
+
+プロジェクトの最初のモジュールが選択されます。単一のQuarkusプロジェクトの場合は、これでOKです。複数モジュールのQuarkusプロジェクトの場合は、モジュールをtestに変更することができます。また、使用するQuarkusプロファイル（devがデフォルト）と環境変数（VARNAME=varvalueの表記で、セミコロンで区切る）を指定することもできます。
+
+
+次に、 OK ボタンをクリックします。これで、ウィンドウの右上に構成が表示されます。
+
+
+
+
+
+
+
+実行アイコンをクリックすると、Quarkusアプリケーションが開発モードで起動します。デバッグボタンをクリックすると、Quarkusアプリケーションが開発モードで起動し、実行中のアプリケーションにローカルのJavaデバッガが接続されます。
+
+
+
+
+
+
+
+
+
+将来
+
+
+ご質問、ご意見、ご感想などがありましたら、ぜひ
+イシューを開いてください。
+
+
+お読みいただきありがとうございました。次のリリースをお待ちください!
+
+
+
+
+リンク
+
+
+
+
+GitHubリポジトリ: https://github.com/redhat-developer/intellij-quarkus
+
+
+課題を開く https://github.com/redhat-developer/intellij-quarkus/issues
+
+
+
+
+
+            </description>
+            <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/intellij-quarkus-tools-1.10.0/
+            </guid>
+            
+            
+            
+            <author>Jeff Maury (https://twitter.com/jeffmaury)</author>
+            
+        </item>
+        
+        <item>
+            <title>Quarkus 2.7.3.Final リリース - メンテナンスリリース</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-7-3-final-released/
+            </link>
+            <description>
+                
+本日、2.7リリーストレインの新しいメンテナンスリリース：2.7.3.Finalをリリースしました。
+
+
+問題を報告してくれる人、再現プログラムを提供してくれる人、修正してくれる人&#8230;&#8203;、本当にありがとうございました。
+
+
+これは、すでに2.7を使用している人にとって安全なアップグレードです。
+
+
+まだ2.7をお使いでない方は、
+2.7移行ガイド
+を参照してください。
+
+
+完全な変更履歴
+
+
+2.7.3.Final
+の完全な変更履歴は、GitHub に掲載されています。
+
+
+
+
+参加のお誘い
+
+
+私達は皆様からのフィードバックに重きを置いています。バグ報告、改善要望を是非お願いします。一緒に素晴らしいものを作り上げていきましょう!
+
+
+Quarkusユーザーの場合でも、単に興味を持っているだけの場合でも、恥ずかしがらずにコミュニティに参加して下さい!:
+
+
+
+
+GitHub でフィードバック
+
+
+コードを作成し、 プルリクエスト を送信
+
+
+Zulip や
+メーリングリスト でディスカッションに参加
+
+
+Stack Overflow で質問
+
+
+
+
+
+            </description>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-7-3-final-released/
+            </guid>
+            
+            
+            
+            <author>Guillaume Smet (https://twitter.com/gsmet_)</author>
+            
+        </item>
+        
+        <item>
+            <title>Quarkus Newsletter #17 - 2月号</title>
+            <link>
+                https://quarkus.io/blog/quarkus-newsletter-17/
+            </link>
+            <description>
+                
+2月号ニュースレターが発行されました。今月は、新しいQuarkus Superheroesサンプルアプリケーションの紹介や、Stork Service
+Discoveryの始め方、Javaによる非同期プログラミング、Istioによる分散トレース、QuarkusとJaeger、Quarkus
+PrometheusとGrafanaのモニタリング、AWS
+Cloudwatch用のQuarkusエクステンションの作成方法などを教える記事が掲載されています。もちろん、厳選されたQuarkus
+Insightsポッドキャストビデオ、トップツイート、Quarkusに関する最新のコミュニティイベントも収録されています。
+
+
+ニュースレター #17をご覧ください。
+
+
+ニュースレターを受信してみませんか？ページ上のフォームを使って
+ニュースレターに登録してください。
+
+
+また、最新のオンラインストーリーのリストも掲載されています。読んでみて、何か足りないと感じたり、今後のQuarkus
+Newsletterに掲載予定の記事がある場合は、ノートパソコンや携帯電話に
+ブックマークレットをインストールすると、簡単に記事を投稿することができます。手動での投稿をご希望の場合は、簡単な説明とURLを入力して
+Issueをオープンしてください。
+
+            </description>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-newsletter-17/
+            </guid>
+            
+            
+            
+            <author>James Cobb (https://twitter.com/insectengine)</author>
+            
+        </item>
+        
+        <item>
+            <title>Quarkus 2.7.2.Final リリース - メンテナンスリリース</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-7-2-final-released/
+            </link>
+            <description>
+                
+Quarkus 2.7.2.Finalのリリースを発表できることを嬉しく思います。2.7リリーストレインの二つ目のメンテナンスリリースです。
+
+
+いくつかのバグフィックスは、通常のメンテナンスリリースに含まれているものよりも、もう少し複雑なものになっていますので、もしアップグレードで問題に遭遇した場合は、できるだけ詳細に（できれば再現手順も含めて）
+課題管理に報告してください。
+
+
+これは、すでに2.7を使用している人にとって安全なアップグレードです。
+
+
+まだ2.7を使用していない場合は、
+2.7移行ガイドを参照してください。
+
+
+変更点
+
+
+KogitoとOptaPlannerのアップグレード
+
+KogitoとOptaPlannerがそれぞれ1.17.0.Finalと8.17.0.Finalにアップグレードされました。
+
+
+
+
+
+完全な変更履歴
+
+
+2.7.2.Finalの完全な変更履歴はGitHub
+に掲載されています。
+
+
+
+
+参加のお誘い
+
+
+私達は皆様からのフィードバックに重きを置いています。バグ報告、改善要望を是非お願いします。一緒に素晴らしいものを作り上げていきましょう!
+
+
+Quarkusユーザーの場合でも、単に興味を持っているだけの場合でも、恥ずかしがらずにコミュニティに参加して下さい!:
+
+
+
+
+GitHub でフィードバック
+
+
+コードを作成し、 プルリクエスト を送信
+
+
+Zulip や
+メーリングリスト でディスカッションに参加
+
+
+Stack Overflow で質問
+
+
+
+
+
+            </description>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-7-2-final-released/
+            </guid>
+            
+            
+            
+            <author>Guillaume Smet (https://twitter.com/gsmet_)</author>
+            
+        </item>
+        
+    </channel>
+</rss>
